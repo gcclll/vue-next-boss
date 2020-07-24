@@ -4,6 +4,7 @@
   <p>
     Edit <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p>
+  <button class="name"></button>
   <button></button>
 </template>
 
@@ -20,3 +21,11 @@ export default {
   }
 }
 </script>
+
+<style lang="less">
+body {
+  font-size: 12px;
+  color: red;
+  height: 100px;
+}
+</style>
