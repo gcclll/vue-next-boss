@@ -4,8 +4,6 @@
   <p>
     Edit <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p>
-  <button class="name"></button>
-  <button></button>
 </template>
 
 <script>
